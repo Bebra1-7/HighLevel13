@@ -1,0 +1,14 @@
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\bin\Debug\net10.0\HighLevel13_Grigoriev.exe
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\bin\Debug\net10.0\HighLevel13_Grigoriev.deps.json
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\bin\Debug\net10.0\HighLevel13_Grigoriev.runtimeconfig.json
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\bin\Debug\net10.0\HighLevel13_Grigoriev.dll
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\bin\Debug\net10.0\HighLevel13_Grigoriev.pdb
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.AssemblyInfoInputs.cache
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.AssemblyInfo.cs
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.csproj.CoreCompileInputs.cache
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.dll
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\refint\HighLevel13_Grigoriev.dll
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.pdb
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\HighLevel13_Grigoriev.genruntimeconfig.cache
+C:\Users\Student_01\Documents\HighLevel13_Grigoriev\obj\Debug\net10.0\ref\HighLevel13_Grigoriev.dll
